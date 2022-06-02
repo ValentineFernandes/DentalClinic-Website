@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/Bootstrap-993399?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-FFF600?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-4EB0E5?style=for-the-badge&logo=mysql&logoColor=white">
 
 # IDE used
 <img src="https://img.shields.io/badge/Atom-00E68A?style=for-the-badge&logo=Atom&logoColor=white">
