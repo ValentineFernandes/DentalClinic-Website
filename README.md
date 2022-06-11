@@ -1,7 +1,7 @@
 # DentalClinic Website
 ✅ This is a website where user can take appointment if they have a tooth-acke .<br/> 
 ✅ This website is mobile friendly.
-<img align="left" width="2000px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img9.jpg">
+<img align="left" width="2000px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img9.jpg"> 
 
 # Technologies used
 <img src="https://img.shields.io/badge/HTML5-FF3300?style=for-the-badge&logo=html5&logoColor=white">
