@@ -5,8 +5,8 @@
 </div>
 
 # Features
-✅ This is a website where user can take appointment if they have a tooth-acke .<br/> 
-✅ This website is mobile friendly. 
+✅ If you have a toothache, you can schedule an appointment on this website.<br/> 
+✅ This website is compatible with mobile devices. 
 
 # Technologies used
 <img src="https://img.shields.io/badge/HTML5-FF3300?style=for-the-badge&logo=html5&logoColor=white">
