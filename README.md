@@ -1,5 +1,21 @@
 <h1 align="center">DentalClinic Website</h1>
 
+
+<p align="center">	
+   <a href="http://www.linkedin.com/in/valentine-fernandes-75701622b">
+      <img alt="Valentine Fernandes" src="https://img.shields.io/badge/-ValentineFernandes-4682B4?style=flat&logo=Linkedin&logoColor=white" />
+   </a>
+  <a href="https://github.com/ValentineFernandes/DentalClinic-Website/blob/main/LICENSE">
+    <img alt="License: MIT" src="https://img.shields.io/github/license/ValentineFernandes/DentalClinic-Website?color=informational" target="_blank" />
+  </a>
+  <img alt="GitHub Forks" src="https://img.shields.io/github/forks/ValentineFernandes/DentalClinic-Website?color=informational" />
+  <img alt="Stars" src="https://img.shields.io/github/stars/ValentineFernandes/DentalClinic-Website?color=informational" />
+  <img alt="Repo size" src="https://img.shields.io/github/repo-size/ValentineFernandes/DentalClinic-Website?color=informational" />
+<img alt= "Watchers" src="https://img.shields.io/github/watchers/ValentineFernandes/DentalClinic-Website?color=informational" />
+<img alt= "Last commit" src="https://img.shields.io/github/last-commit/ValentineFernandes/DentalClinic-Website?color=informational" />
+</p>
+
+
 <div align="center">
     <img width="600" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/DentalClinicWebsite.png"> 
 </div>
