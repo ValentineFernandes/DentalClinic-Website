@@ -4,7 +4,7 @@
     <img width="600" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/DentalClinicWebsite.png"> 
 </div>
 
-# Features
+# 📝 Features
 ✅ If you have a toothache, you can schedule an appointment on this website.<br/> 
 ✅ This website is compatible with mobile devices. 
 
