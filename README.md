@@ -8,7 +8,7 @@
 ✅ If you have a toothache, you can schedule an appointment on this website.<br/> 
 ✅ This website is compatible with mobile devices. 
 
-# 👩‍💻 Technologies used
+# 💻 Technologies used
 <img src="https://img.shields.io/badge/HTML5-FF3300?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-0066FF?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-993399?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-4EB0E5?style=for-the-badge&logo=mysql&logoColor=white">
 
-# IDE used
+# 👩‍💻 IDE used
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 # Visit the website here
