@@ -1,6 +1,6 @@
 <h1 align="center">DentalClinic Website</h1>
 
-
+ 
 <p align="center">	
    <a href="http://www.linkedin.com/in/valentine-fernandes-75701622b">
       <img alt="Valentine Fernandes" src="https://img.shields.io/badge/-ValentineFernandes-4682B4?style=flat&logo=Linkedin&logoColor=white" />
