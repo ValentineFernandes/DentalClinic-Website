@@ -4,7 +4,7 @@ on: push
 
 jobs:
   stale_branches:
-    runs-on: puru-ubuntu-1
+    runs-on: warp-ubuntu-latest-arm64-2x
     steps:
     - name: List Directory
       run: ls -l
