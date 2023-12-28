@@ -1,0 +1,10 @@
+name: Sample workflow
+
+on: push
+
+jobs:
+  stale_branches:
+    runs-on: puru-ubuntu-1
+    steps:
+    - name: List Directory
+      run: ls -l
